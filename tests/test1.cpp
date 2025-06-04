@@ -10,3 +10,6 @@ int stackAndHeap() {
     return 0;
 }
 
+void try1() {
+    std::cout << "Feature #1" << std::endl;
+}
