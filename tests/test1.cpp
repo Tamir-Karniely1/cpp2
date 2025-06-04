@@ -9,3 +9,7 @@ int stackAndHeap() {
     std::cout << 3 << std::endl;
     return 0;
 }
+
+void feature2() {
+    std::cout << 1 << std::endl;
+}
