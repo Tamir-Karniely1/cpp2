@@ -13,3 +13,8 @@ int stackAndHeap() {
 void try1() {
     std::cout << "Feature #1" << std::endl;
 }
+
+void try2() {
+    for (size_t i = 0; i < 3; i++)
+        try1();
+}
