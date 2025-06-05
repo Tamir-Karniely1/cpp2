@@ -49,13 +49,7 @@ int main() {
     // bonus: compiler prediction if statement
 
     Bank bank = Bank();
-    bank.add_account(Account(MR, "a", 1000.0));
-    bank.add_account(Account(MS, "b", 2000.0));
-    bank.add_account(Account(MR, "c", 3000.0));
-    bank.add_account(Account(MR, "d", 4000.0));
-    bank.add_account(Account(MR, "e", 5000.0));
-    bank.add_account(Account(MS, "f", 6000.0));
-    bank.display_accounts();
+
     // bank.remove_account(1);
     // bank.display_accounts();
 
